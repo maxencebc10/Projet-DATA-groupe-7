@@ -1,10 +1,10 @@
 Dans ce dossier 
 
-Nous placerons : 
-Le scripts d'EDA : explore Data Analysis
+## Nous placerons : 
+#Le scripts d'EDA : explore Data Analysis
     Si trouvent les df.head(), df.describe() etc, ainsi que la partie de CLEANING
     ANALYSE.ipynb
     CLEANING.ipynb
-Le script de ML
+# Le script de ML
 
 Pour les plus aguéris, une partie de front et de back pouvant permettre l'industriatlisation d'une API REST. Cette partie est une partie bonifiée. 
